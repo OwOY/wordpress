@@ -2,15 +2,6 @@
 <img src="https://wanteasy.com.tw/wp-content/uploads/WordPress-logotype-alternative.png"/>
 </p>
 
----   
-# How to use wordpress  
-1. Setup
-```
-
-```
-
-
-----  
 ## Bonus
 - SEO 
 >> https://imjaylin.com/wordpress-seo-plugins/
@@ -18,3 +9,6 @@
 
 - 雲端空間  
 >> https://ikala.cloud/cloud-storage-application-website/
+
+- 佈景主題
+>> https://wordpress.org/themes/browse/new/
